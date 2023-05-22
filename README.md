@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jiwangreal
 - 👀 I’m interested in C++
-- 🌱 I’m currently learning AotoCore.ai
+- 🌱 I’m currently learning AutoCore.ai
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
